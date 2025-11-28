@@ -29,7 +29,7 @@ I'm currently focused on:
 - 🌐 Building modern web applications with **MERN Stack**
 - 📄 Working on **RAG-based LLM systems**
 - 🧠 Exploring the potential of **open-source LLMs** for smart document processing
-- 🧰 Developing my startup **[ThinkCraft.ai](https://thinkcraftai.tech)** to help businesses go online
+<!--- 🧰 Developing my startup **[ThinkCraft.ai](https://thinkcraftai.tech)** to help businesses go online -->
 
 ---
 
